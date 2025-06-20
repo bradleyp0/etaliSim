@@ -11,8 +11,8 @@ int main(int argc, char **argv)
 {
 	srand(time(0));
 	int lands;
-    int nonlands;
-    int iterations;
+	int nonlands;
+	int iterations;
 	cout << "Simulating Etali and Tenth Doctor interaction. \nenter land count: ";
 	cin >> lands;
 	cout << "enter nonland count: ";
