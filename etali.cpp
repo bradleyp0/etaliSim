@@ -7,8 +7,8 @@ using namespace std;
 int main(int argc, char **argv)
 {
 	int lands;
-    int nonlands;
-    int iterations;
+	int nonlands;
+	int iterations;
 	cout << "Simulating Etali and Tenth Doctor interaction. \nenter land count: ";
 	cin >> lands;
 	cout << "enter nonland count: ";
